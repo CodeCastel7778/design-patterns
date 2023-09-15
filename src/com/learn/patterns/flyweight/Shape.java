@@ -1,0 +1,13 @@
+package com.learn.patterns.flyweight;
+
+public abstract class Shape {
+
+	void draw(int radius, String fillColor, String lineColor) {
+
+	}
+
+	void draw(int length, int breadth, String fillStyle) {
+
+	}
+
+}
